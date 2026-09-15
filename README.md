@@ -52,3 +52,27 @@ covered_emotions_detection/
 ├── trained_models/    # Trained model files
 ├── data_prep.py       # Image preprocessing and dataset preparation
 └── main.py            # Main project entry point
+
+
+## Project Background
+
+This project was developed as part of the **NSLC Artificial Intelligence Summer Program at the University of California, Berkeley** in Summer 2025.
+
+The goal of the project was to gain hands-on experience with artificial intelligence and computer vision by developing a model capable of recognizing human emotions from facial features, including cases where portions of the face were obstructed.
+
+## Future Improvements
+
+Potential areas for continued development include:
+
+- Expand the training dataset
+- Evaluate model accuracy across different types of facial obstruction
+- Compare different machine learning architectures
+- Improve preprocessing and data augmentation
+- Add real-time emotion detection using a camera feed
+- Create a user interface for testing the model
+
+## Author
+
+**Justin Gu**  
+Computer Science Student  
+NYU Tandon School of Engineering
