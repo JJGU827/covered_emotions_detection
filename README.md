@@ -43,17 +43,6 @@ Images are:
 
 The current preprocessing implementation supports `.png`, `.jpg`, and `.jpeg` images and can be configured for different image resolutions.
 
-## Repository Structure
-
-```text
-covered_emotions_detection/
-├── datasets/          # Image datasets used by the project
-├── models/            # Model-related code and resources
-├── trained_models/    # Trained model files
-├── data_prep.py       # Image preprocessing and dataset preparation
-└── main.py            # Main project entry point
-
-
 ## Project Background
 
 This project was developed as part of the **NSLC Artificial Intelligence Summer Program at the University of California, Berkeley** in Summer 2025.
@@ -76,3 +65,14 @@ Potential areas for continued development include:
 **Justin Gu**  
 Computer Science Student  
 NYU Tandon School of Engineering
+
+## Repository Structure
+
+```text
+covered_emotions_detection/
+├── datasets/          # Image datasets used by the project
+├── models/            # Model-related code and resources
+├── trained_models/    # Trained model files
+├── data_prep.py       # Image preprocessing and dataset preparation
+└── main.py            # Main project entry point
+```
